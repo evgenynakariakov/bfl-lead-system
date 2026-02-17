@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env
+venv/
+.venv/
+
+# Local config/secrets
+.env
+.env.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime/debug files
+*.log
+
+# Local reports/artifacts (remove if you want to publish reports)
+отчет/
